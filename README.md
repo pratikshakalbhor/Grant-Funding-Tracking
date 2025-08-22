@@ -73,7 +73,3 @@ aptos move run --function-id [CONTRACT_ADDRESS]::GrantFundingTracker::initialize
 # Disburse and track spending
 aptos move run --function-id [CONTRACT_ADDRESS]::GrantFundingTracker::disburse_and_track_spending
 ```
-
----
-
-**Note**: This contract is currently in development. Please use testnet for testing purposes only. Mainnet deployment will be announced with proper security audits and testing completion.
