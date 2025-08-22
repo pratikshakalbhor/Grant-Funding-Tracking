@@ -56,8 +56,9 @@ Our vision is to revolutionize grant funding by creating a transparent, efficien
 
 ```
 **Devnet: 0x9d6cc820d958bed4adef1b76287bede1ee24a4711e51202754380b687b6d6dc9
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3bfceb74-c2bd-4b13-beb1-ad316f3cdd2b" />
 ```
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3bfceb74-c2bd-4b13-beb1-ad316f3cdd2b" />
 
 ### Deployment Information
 - **Testnet Address**: `[Will be updated after testnet deployment]`
