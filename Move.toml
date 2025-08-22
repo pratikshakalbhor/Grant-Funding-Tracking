@@ -1,0 +1,15 @@
+[package]
+name = "Grant-Funding-Tracking"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0xb7a44a4dc3fa4e50f5e72cf77192d6a7a125882901db749040290d025749d2f5"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
