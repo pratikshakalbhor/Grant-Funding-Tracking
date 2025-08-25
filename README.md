@@ -60,17 +60,3 @@ Our vision is to revolutionize grant funding by creating a transparent, efficien
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3bfceb74-c2bd-4b13-beb1-ad316f3cdd2b" />
 
-### Deployment Information
-- **Testnet Address**: `[Will be updated after testnet deployment]`
-- **Mainnet Address**: `[Will be updated after mainnet deployment]`
-- **Compiler Version**: Move 1.0
-- **Last Updated**: [Deployment Date]
-
-### How to Interact
-```bash
-# Initialize a new grant
-aptos move run --function-id [CONTRACT_ADDRESS]::GrantFundingTracker::initialize_grant
-
-# Disburse and track spending
-aptos move run --function-id [CONTRACT_ADDRESS]::GrantFundingTracker::disburse_and_track_spending
-```
